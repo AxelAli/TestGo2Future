@@ -1,4 +1,4 @@
-r# Test Go2Future Fullstack dev
+# Test Go2Future Fullstack dev
 
 ### Task:
 Create a React Site + Backend for a website where you can add your favorite items (games/movies/products/books/anime for example)
